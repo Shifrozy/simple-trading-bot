@@ -50,3 +50,4 @@ Latest Price: 29345.12 | Signal: BUY
 This bot is for **educational purposes only**.
 It does **not** place real trades and should not be used for actual investment decisions without further development and risk management.
 
+
